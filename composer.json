@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Vitalybaev\\GoogleMerchant\\": "src/"
+      "fonnets\\GoogleMerchant\\": "src/"
     }
   },
   "require-dev": {
